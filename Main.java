@@ -30,6 +30,7 @@ class Food implements Serializable
         }
     }
 }
+//for testing purpose
 class Singleroom implements Serializable
 {
     String name;
